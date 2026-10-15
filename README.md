@@ -2908,9 +2908,11 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [loopx](https://github.com/loopx-project/loopx) - A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.
  * [letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
  * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for AI agents via Parallel's hosted MCP server, with no account or API key required.
+ * [Serply Agent Skills](https://github.com/serply-inc/skills) - Agent skill and Claude Code / Codex plugins for the Serply API and hosted MCP server: Google web, News, Scholar, Maps and Jobs search, Bing, Amazon, Reddit and URL scraping.
 
 |Name|Language|License|Stars|
 |-|-|-|-|
 |[codex-multiple-env](https://github.com/masakaai/codex-multiple-env)|JavaScript|Apache-2.0|![GitHub Repo stars](https://img.shields.io/github/stars/masakaai/codex-multiple-env?style=social)|
 |[search-mcp](https://github.com/parallel-web/search-mcp)|Markdown / JSON|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/parallel-web/search-mcp?style=social)|
 |[esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)|Python|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/onehumanbeing/esp32-iphone-agent?style=social)|
+|[Serply Agent Skills](https://github.com/serply-inc/skills)|Markdown / JSON|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/serply-inc/skills?style=social)|
